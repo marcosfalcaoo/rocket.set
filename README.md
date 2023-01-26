@@ -1,7 +1,7 @@
 <h1 align="center"> Rocket.sect </h1>
 
 <p align="center">
-Rocket Sect é um layout básico para formentar o aprendizado do Stage 2. <br/>
+Rocket Sect é um layout básico para formentar o aprendizado do Stage 2 do Explorer. <br/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O RocketSet é um projeto para alinhas o aprendizado de HTML e CSS avançado.
+O RocketSet é um projeto para alinhas o aprendizado de HTML e CSS avançado aprendido durante o stage 2.
 
 ## 🔖 Layout
 
